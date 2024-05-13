@@ -1,10 +1,10 @@
- # 5  . CREATE SOCKET FOR HTTP FOR WEBPAGE UPLOAD AND DOWNLOAD
- 
+ # 5. CREATE SOCKET FOR HTTP FOR WEBPAGE UPLOAD AND DOWNLOAD
+ ### NAME:Suman G
+### REG.NO: 212223240163
 ## Aim :
 To write a PYTHON program for socket for HTTP for web page upload and download.
 
-### NAME: sumanguna
-### REG.NO: 212222240046
+
 
 ## Algorithm :
 
